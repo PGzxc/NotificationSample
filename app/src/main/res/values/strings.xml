@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationSample</string>
+    <string name="notify_name">Notify</string>
+    <string name="notify_to">NotifyTo</string>
+    <string name="custom">CustomActivity</string>
+    <string name="jump_notify">跳转通知</string>
+</resources>
